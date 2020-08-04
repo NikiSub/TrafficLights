@@ -1,2 +1,2 @@
 # TrafficLights
-Project to detect Traffic Light color. Done in Computer Vision Class.
+Project to detect Traffic Light color. Final Project in Computer Vision Class.
